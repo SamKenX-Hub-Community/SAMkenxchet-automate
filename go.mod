@@ -12,7 +12,7 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/Masterminds/squirrel v1.1.0
 	github.com/alexedwards/scs v1.4.1
-	github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7 // indirect
+	github.com/apache/thrift v0.13.0 // indirect
 	github.com/apoydence/onpar v0.0.0-20190519213022-ee068f8ea4d1 // indirect
 	github.com/armon/go-metrics v0.3.2 // indirect
 	github.com/aws/aws-sdk-go v1.43.16
@@ -72,6 +72,7 @@ require (
 	github.com/muesli/crunchy v0.0.0-20170927092902-4ec98f770e27
 	github.com/nats-io/gnatsd v1.3.1-0.20190311222832-8ba3abef6ac9
 	github.com/nats-io/go-nats v1.7.2 // indirect
+	github.com/nats-io/jwt v1.2.2 // indirect
 	github.com/nats-io/nats-streaming-server v0.24.3
 	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/nats-io/stan.go v0.10.2
