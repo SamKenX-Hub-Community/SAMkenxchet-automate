@@ -31,7 +31,7 @@ require (
 	github.com/dexidp/dex v2.19.0+incompatible
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/docker/distribution v2.8.0+incompatible // indirect
-	github.com/docker/docker v20.10.24+incompatible // indirect
+	github.com/docker/docker v24.0.7+incompatible // indirect
 	github.com/envoyproxy/protoc-gen-validate v0.4.0
 	github.com/fatih/color v1.9.0
 	github.com/ghodss/yaml v1.0.1-0.20180503022059-e9ed3c6dfb39
@@ -72,6 +72,7 @@ require (
 	github.com/muesli/crunchy v0.0.0-20170927092902-4ec98f770e27
 	github.com/nats-io/gnatsd v1.3.1-0.20190311222832-8ba3abef6ac9
 	github.com/nats-io/go-nats v1.7.2 // indirect
+	github.com/nats-io/jwt v1.2.2 // indirect
 	github.com/nats-io/nats-streaming-server v0.24.3
 	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/nats-io/stan.go v0.10.2
